@@ -15,4 +15,12 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Array
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
