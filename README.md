@@ -18,9 +18,14 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Array
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/code-with-udit/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/code-with-udit/leetcode-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
