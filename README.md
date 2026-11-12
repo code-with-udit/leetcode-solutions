@@ -19,6 +19,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/code-with-udit/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/code-with-udit/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
