@@ -38,4 +38,8 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/code-with-udit/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/code-with-udit/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
