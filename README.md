@@ -42,4 +42,12 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/code-with-udit/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
