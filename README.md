@@ -18,6 +18,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/code-with-udit/leetcode-solutions/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/code-with-udit/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [1046-last-stone-weight](https://github.com/code-with-udit/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/code-with-udit/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -46,10 +47,12 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/code-with-udit/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/code-with-udit/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Binary Search
 |  |
