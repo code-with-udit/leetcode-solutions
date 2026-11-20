@@ -18,6 +18,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/code-with-udit/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [1046-last-stone-weight](https://github.com/code-with-udit/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/code-with-udit/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/code-with-udit/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -50,4 +51,8 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/code-with-udit/leetcode-solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
