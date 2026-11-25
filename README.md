@@ -27,6 +27,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
@@ -44,6 +45,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/code-with-udit/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Backtracking
