@@ -29,6 +29,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/code-with-udit/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3693-climbing-stairs-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +48,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/code-with-udit/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/code-with-udit/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Backtracking
 |  |
