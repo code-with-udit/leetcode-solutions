@@ -27,6 +27,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/code-with-udit/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/code-with-udit/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -46,6 +47,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/code-with-udit/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/code-with-udit/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
