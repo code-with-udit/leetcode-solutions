@@ -11,6 +11,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/code-with-udit/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0547-number-of-provinces](https://github.com/code-with-udit/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,4 +79,16 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/code-with-udit/leetcode-solutions/tree/master/3360-stone-removal-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/code-with-udit/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/code-with-udit/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/code-with-udit/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
