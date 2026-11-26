@@ -70,4 +70,12 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/code-with-udit/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/code-with-udit/leetcode-solutions/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/code-with-udit/leetcode-solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
